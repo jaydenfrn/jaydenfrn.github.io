@@ -17,7 +17,8 @@
     { "name": "Cybersecurity" },
     { "name": "Cyber Forensics" },
     { "name": "Video Game Development" },
-    { "name": "Computer Graphics" }
+    { "name": "Computer Graphics" },
+    { "name": "Software Engineering"}
   ],
   "skills": [
     {
