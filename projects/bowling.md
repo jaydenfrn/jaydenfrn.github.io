@@ -14,5 +14,3 @@ I was a part of the group of my friends that planned and organized our bowling n
 
 Due to this, we were able to successfully meet up and spend time together.
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
