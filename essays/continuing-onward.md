@@ -11,7 +11,7 @@ labels:
   - Aspirations
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/continuingonward/coding.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/continuingonward/coding.jpg">
 
 People say that humans are a product of their environment and frankly, I would have to agree. From a young age, I've been constantly surrounded by technology. Computers became part of my daily routine and gave me an unbelievable number of memorable experiences, both to my benefit, and possible detriment. I like to believe that my early exposure to technology was a massive factor in my development throughout my childhood, and as you would expect, spending so much time around something everyday made me grow more and more curious. How does this little box under my desk do all of this? How do my games work? Is it magic? Well, no, it's not magic, which I quickly learned as I began investigating. During these days, my dad had been taking note of my interest in computers. As a guy working in IT himself, he would always try to teach me about how to manage my computer properly. Granted, he would mostly teach me after I had accidentally installed malware onto my computer while trying to install mods for Minecraft, but that's besides the point. Around this time, at about 10-12 years old, my dad would introduce me to a platform that would affect my future: Codecademy. 
 
