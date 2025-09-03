@@ -4,7 +4,7 @@ type: project
 image: img/bowling/bowling_pins.jpg
 title: "Bowling"
 date: 2025-08-24
-published: false
+published: true
 labels:
   - Planning
 summary: "A group hangout with friends"
