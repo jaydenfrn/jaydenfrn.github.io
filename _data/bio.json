@@ -27,13 +27,13 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows 10/11", "Git/GitHub", "Unity" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2027)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023-09-08",
       "endDate": "Present",
@@ -43,69 +43,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Servpac Inc.",
+      "position": "Summer Intern",
+      "website": "https://servpac.com",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-31",
+      "summary": "Summer intern as part of the 2023 STEMworks Internship program",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Shadowed techs on-site to install fiber-optic internet systems and Voice over Internet Protocol (VoIP) phones.",
+        "Modernized critical infrastructure of electrical equipment by repurposing legacy electrical equipment for database usage."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Ala Serenity, Leilehua High School",
+      "position": "Chef",
+      "website": "",
+      "startDate": "2019-08-07",
+      "endDate": "2023-05-19",
+      "summary": "Worked as a chef as a part of a class curriculum where we were required to work during real service.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated with my team to act as a functioning restaurant to provide catering services to the local community",
+        "Collaborated with other chefs to develop menu items for events and caterings.",
+        "Provided customer service and interacted with guests to ensure an enjoyable experience"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hawaii Okinawan Festival 2022, Leilehua High School Nakayoshi Kai",
+      "website": "https://www.okinawanfestival.com",
+      "position": "Booth Clerk",
+      "startDate": "2022-09-30",
+      "endDate": "2022-09-31",
+      "summary": "Helped run a booth selling food and snacks to festival goers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Prepared and managed a customer snack booth, ensuring guests feel welcomed and accustomed to the festival."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Olelo Community Media",
+      "website": "https://olelo.org",
+      "position": "Audio Technician",
+      "startDate": "2021-09-20",
+      "endDate": "2023-05-19",
+      "summary": "Worked as an audio technician in video village for film production",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Worked behind the scenes to set up cameras, direct crew for camera shots, and ensure that the graduation live production was smooth.",
+        "Managed live audio feeds to ensure proper audio quality."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Hawaii State Seal of Biliteracy",
+      "date": "2023-Present",
+      "awarder": "Hawaii Department of Education (HIDOE)",
+      "summary": "Awarded to students who demonstrate a high proficiency in both of the state's two official languages (English and Hawaiian) OR either of the state's two official languages and at least one additional language, including American Sign Language."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "NASP Hawaii Archery State Champion",
+      "date": "2023-03-25",
+      "awarder": "National Archery in Schools Program (NASP)",
+      "summary": "I won first place for all divisions"
     }
   ],
   "references": [
