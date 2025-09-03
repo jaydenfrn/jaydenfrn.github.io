@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Reflection
   - Aspirations
+# img source: "https://woz-u.com/blog/the-evolution-of-coding-what-programming-languages-are-prominent-today/"
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="../img/continuingonward/coding.jpg">
