@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aim/archerybale.png
+image: img/aim/archeryaim.jpg
 title: "Project AIM"
 date: 2022-6-01
 published: true
