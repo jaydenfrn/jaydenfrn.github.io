@@ -9,7 +9,7 @@ labels:
   - Sautering
   - Engineering
   - Drones
-summary: "A group hangout with friends"
+summary: "Learning to assemble, test, and troubleshoot racing drones for a competitive event"
 ---
 
 In high school, I was a part of a Robotics club and one of our new activities that year was a drone racing event. I never actually got to the point of competing, however, I was one of the students who was tasked with working on the drones themselves. Me, along with my small team of 3 people, were given the task of assembling the racing drones for the team's use. These drones were truly a DIY project. They gave us motors, propellers, circuit boards, and wires, and required us to assemble them. This included sautering, which I'm not particularly amazing at. Luckily there were only a handful of drones that needed assembly, as we didn't have funds for more. 
