@@ -11,7 +11,7 @@ labels:
   - TypeScript
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/typescriptessay/tsvjs.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescriptessay/tsvjs.png">
 
 My experience with TypeScript isn't *exactly* new, but I am very much a beginner with it. That being said, I have always loved using TypeScript as opposed to pure JavaScript simply due to one feature. *Static typing*. Being able to declare and read static types is an absolute game changer, especially when you're concerned about incorrect inputs. It's also amazing when trying to debug a problem that normally isn't flagged by JavaScript's compiler. Oh, your function output looks strange? Well, with TypeScript you might find out that you accidentally returned a boolean when the function needed a number (to be fair, in some languages booleans *are* a number) and so you know that something is wrong before you even try to run it! The convenience that TypeScript has over JavaScript is refreshing. It's very similar to other static typed languages like C#, Java, and C++, yet still has a lot of the type flexibility that comes with JavaScript.
 
