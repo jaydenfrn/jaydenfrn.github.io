@@ -6,7 +6,7 @@ title: "Drone Racing"
 date: 2022-11-15
 published: true
 labels:
-  - Sautering
+  - Soldering
   - Engineering
   - Drones
 summary: "Learning to assemble, test, and troubleshoot racing drones for a competitive event"
