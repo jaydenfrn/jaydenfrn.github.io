@@ -21,7 +21,7 @@ What even constitutes a "smart" question? And if smart questions exist, that imp
 
 There are many places online that are dedicated to asking questions: forums. Stack Overflow is a website dedicated to asking and answering programming questions, most of which that you find can be considered good questions. They're specific, concise, and tend to provide snippets of code to help others get on the same page when answering. 
 
-Here is an example I found of a simple, but smart question:
+Here is an example I found of a simple, but smart question:  
 
 
 Q: [How to confine plot region to exact area](https://stackoverflow.com/questions/60750125/how-to-confine-plot-region-to-exact-area)
@@ -37,5 +37,5 @@ axis(2, seq(0, 1, 0.2), seq(0, 1, 0.2), pos = 0)
 but the lines exceed the area (0, 0) to (1, 1). Is it a problem with the plot region?
 
 How can I confine the plot region to an exact area, for example from (0, 0) to (1, 1)?
-```
+```  
 
