@@ -27,13 +27,13 @@ Here is an example I found of a simple, but smart question:
 Q: [How to confine plot region to exact area](https://stackoverflow.com/questions/60750125/how-to-confine-plot-region-to-exact-area)
 ```
 I would like to plot a box with a grid as in the code below:
-```
+
 plot(rnorm(10), rnorm(10), type = "n", asp = 1, xlim = c(0, 1), ylim = c(0, 1), axes = FALSE, pty = "s", bty = "o", xlab = "", ylab = "")
 abline(h = seq(0, 1, 0.2), v = seq(0, 1, 0.2), col = "lightgray")
 abline(a = 0, b = 1, col = "lightgray")
 axis(1, seq(0, 1, 0.2), seq(0, 1, 0.2), pos = 0)
 axis(2, seq(0, 1, 0.2), seq(0, 1, 0.2), pos = 0)
-```
+
 but the lines exceed the area (0, 0) to (1, 1). Is it a problem with the plot region?
 
 How can I confine the plot region to an exact area, for example from (0, 0) to (1, 1)?
