@@ -12,8 +12,6 @@ labels:
   - CSS
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/sendev.png">
-
 # My experience with Bootstrap
 
 I've never had a good relationship with HTML. Never liked it, and I don't think I ever will. It's just not really my thing. CSS on the other hand, not as bad on a surface level in my opinion. The syntax is simpler and there are less nested structures in the files. HTML has a major nesting issue. EVERYTHING is nested in something. This makes it really hard to see where a section ends and another begins (also why nested loops or conditionals in other languages can be bad). Once you get past the nesting, raw HTML and CSS can be a bit, cumbersome, for lack of a better term. Trying to create exactly what you want, while doable, can get annoying, especially when styling sections entirely manually. 
@@ -23,3 +21,5 @@ Enter, Bootstrap. One of many UI frameworks designed to do most of the heavy lif
 ## Is it worth it?
 
 Bootstrap is comparatively way more efficient than raw HTML and CSS. Being able to streamline website development using grid like templates removes a lot of the overhead required by raw HTML and CSS, removing a lot of the friction for developers. Streamlining efficiency is important to the development process, and also allows different developers to quickly be able to collaborate on the same bootstrap project. If I were given a choice between Bootstrap and raw HTML and CSS, then I'd choose Bootstrap in a heartbeat
+
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/banyans.png">
