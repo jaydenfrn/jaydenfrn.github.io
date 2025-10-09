@@ -22,4 +22,4 @@ Enter, Bootstrap. One of many UI frameworks designed to do most of the heavy lif
 
 Bootstrap is comparatively way more efficient than raw HTML and CSS. Being able to streamline website development using grid like templates removes a lot of the overhead required by raw HTML and CSS, removing a lot of the friction for developers. Streamlining efficiency is important to the development process, and also allows different developers to quickly be able to collaborate on the same bootstrap project. If I were given a choice between Bootstrap and raw HTML and CSS, then I'd choose Bootstrap in a heartbeat
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/banyans.png">
+<img width="300px" class="rounded float-center pe-4" src="../img/bootstrap/banyans.png">
