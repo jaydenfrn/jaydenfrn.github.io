@@ -14,23 +14,32 @@ labels:
 
 
 ## Authors
-* Matthew Matsumoto
-* Joan Zara
-* Jayden Francoise
-* Raymond Acker
-* Jun Xiang Zeng
+* [Matthew Matsumoto](https://matthewmatsumoto.github.io/)
+* [Joan Zara](https://jn1za.github.io)
+* [Jayden Francoise](https://jaydenfrn.github.io/)
+* [Raymond Acker](https://ackerrs.github.io)
+* [Jun Xiang Zeng](https://junoxzeng.github.io)
+
 
 ## Overview
 **The Problem:** Many college students want to build real-world experience and strengthen their resumes through hands-on projects. However, the scope and complexity of meaningful and large-scale projects may exceed their current technical skills or confidence. Such a gap makes it difficult for students to initiate or complete projects that truly showcase their abilities.
 
-**The Solution:** **Team UHP!** is a platform for students to connect across areas of study by enabling them to upload project
-postings and recruit collaborators. Whether it's a class assignment or a passion project, students can find teammates with complementary skills and allow each contributor to play a meaningful role that aligns with their field of study. This medium of collaboration helps students to gain practical experience, build teamwork skills, and add completed projects to their resumes.
+**The Solution:** **Team UHP!** is a platform for students to connect across areas of study by enabling them to upload project postings and recruit collaborators. Whether it's a class assignment or a passion project, students can find teammates with complementary skills and allow each contributor to play a meaningful role that aligns with their field of study. This medium of collaboration helps students to gain practical experience, build teamwork skills, and add completed projects to their resumes.
 
 ## Approach
-A site that lists: 
+Instead of networking across multiple platforms to recruit members for a project, a poster can create a site that lists: 
 * Overview of the project
 * Tags that list the fields of knowledge for the project (positions/openings)
+* Add Images to posting (optional)  
+* “Wizard” for creating listings
 * Contact email(s) for followup
+* The more project tags that match your skills, the higher it is in the listing. 
+
+Students who visit the site can create a profile of their skills, interests for projects, and a link to their portfolio’s/Socials/Contacts.
+
+Students that upload their project postings can have a list of all projects under their profile details.
+
+Admins can monitor the site for inappropriate content and create new tags of skills, majors, and positions to recruit.
 
 ## Mockup Page Ideas
 * Landing page
@@ -40,6 +49,7 @@ A site that lists:
 * Project page
 * Recommended projects page
 * About platform page / platform learning (“How To’s”) 
+* Admin Page
 
 ## Use Case Ideas
 * New user goes to the landing page, logs in, gets the home page, sets up their profile.
