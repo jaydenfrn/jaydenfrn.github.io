@@ -53,17 +53,3 @@ A site that lists:
 * Divide between “interests” and “non-interests”
 * Weight classifieds based on parts filled out / specificity of tag (Python > Coding)
 * “LLM” or dictionary to find synonyms in searches
-
-—————Other Notes—————
-Use of Nextjs: 
-Use of React:
-Use of Bootstrap 5: 
-Use of GitHub Hosting: 
-“Special Sauce”: (See beyond basics)
-
-
-People to Review App: 
-[JZ] I have 1 in mind. Jameel (the engineering student who gave me this anecdote about collaborating with students in other majors) 
-[MM] Arthur (friend), Asher (cousin)
-[RA] I could get at least one friend to review it, would not be students.
-[JXZ] Jyrum (Friend)
