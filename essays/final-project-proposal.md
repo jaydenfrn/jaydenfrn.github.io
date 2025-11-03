@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea / Final Project Proposal
+title: Final Project Proposal
 date: 2025-11-04
 published: true
 labels:
