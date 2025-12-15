@@ -4,7 +4,7 @@ type: essay
 title: "All About Timing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-13
-published: false
+published: true
 labels:
   - Engineering
   - Agile Project Management
@@ -18,4 +18,8 @@ Throughout the extent of this final project, I've come to a mildly intriguing co
 
 I think that our estimates did somewhat help us. For topics we were more comfortable with, yeah, we were able to use our estimates and work around them. With new topics however, I do think it ironically *did* help us a little bit despite being inaccurate because seeing that large estimate makes the problem seem more daunting than it actually was, and so when taking it on, we felt that we needed to prepare *mentally* to work on it. For me, at least, this helped me to stay focused while I looked into the issue. Someone's gotta do it, and so despite it being daunting, I'd have to look for a solution somehow. The only issue was honestly the mental preparation. Sometimes it seemed *too* daunting to attempt and it would leave a topic on the side for a while. Then, when we decide to actually pick it up, it turns out it wasn't as bad as we estimated. So, it did create a bit of wasted time when getting started, and so that is definitely a major drawback that we faced. However, since we were already prepared to face a difficult problem, it was somewhat easier to work through them since we already prepared for it from the start.
 
-We were able to learn from these estimates and get closer estimates for other issues that were related and as I mentioned before, we were able to work around these estimations well for topics we were already familiar with. 
+We were able to learn from these estimates and get closer estimates for other issues that were related and as I mentioned before, we were able to work around these estimations well for topics we were already familiar with. However, I do feel that in the grand scheme of the project, our estimations were, for lack of a better term, insignificant. They weren't exactly useful to us since we didn't really divide tasks up by "difficulty" and instead took them sequentially as they appeared. It could have to do with *how* we made those estimations, since it was really only best guess, and so we didn't place much emphasis on the complexity of issues. There were no tools involved, no further considerations besides, "Dang that seems rough," and a slapped on time. It wasn't *entirely* freestyled however it was effectively on a whim.
+
+## For the future
+
+There were many things I believe we could have done better. Ideally, I would have liked to have a properly fleshed out roadmap for what features we had planned and rough ideas for how they would be implemented way before we wrote a line of code. This is mostly due to our inexperience as developers. We had no clue how intricate a project of even this scale would actually be. Now that we have more experience, I believe we would be able to map our projects a little easier not that we have an idea of what problems we may face in the future, especially when designing Next.js web applications. On the other hand, effort tracking? Well, the way we did it was not good at all. We were incredibly inconsistent with our times and had no real structure to what makes an issue take more "effort" or "time" and so our estimations had little to no logical basis. Having some sort of reference checklist as to general time ranges for types of issues may help in that case. Something to look at as a sanity check instead of getting overwhelmed by the sound of an issue and slapping a label on it and calling it a day. If we had something along those lines, I'm sure it would have been easier to categorize issues by complexity, which would have improved our efficiency.
