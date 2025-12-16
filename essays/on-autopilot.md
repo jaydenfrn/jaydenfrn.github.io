@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "All About Timing"
+title: "On Autopilot"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-15
 published: true
