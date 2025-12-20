@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/teamuhp/greenlogo.png
+image: img/teamuhp/vercel.png
 title: "Team UHp"
 date: 2025-12-19
 published: true
